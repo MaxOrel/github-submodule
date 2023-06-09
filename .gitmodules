@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:MaxOrel/react-storybook-template.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:MaxOrel/express-mesto-gha.git
